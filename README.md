@@ -15,9 +15,11 @@ Aspiring full stack developer, currently completing a degree apprenticeship at S
 
 ### Stats
 
-</div>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
-![Metrics](/github-metrics.svg)
+</div>
 
 <div align="center">
 
